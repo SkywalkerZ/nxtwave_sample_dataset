@@ -107,17 +107,21 @@ The findings of the dataset told us:
 In terms of leads demo details: 
 
 The language in which most leads preferred to watch demos.
+
 ![image](https://user-images.githubusercontent.com/6307592/195078406-e5785d0b-f638-447a-8287-3afb7aa662be.png)
 
 And what was the breakdown of % demo watched.
+
 ![image](https://user-images.githubusercontent.com/6307592/195078709-d97b4655-041e-4c26-bb77-52d8d5bb4108.png)
 
 The findings of the dataset told us:
+
 1.English is the most prefered language to watch with, followed by Telugu and Hindi.
 
 2.The chance of a lead watching 50% or more of the media is higher.
 
 In terms of lead interactions merged with leads demo details:
+
 
 Understand the languages preferred by the leads at different lead conversion stages.
 ![image](https://user-images.githubusercontent.com/6307592/195079560-b22645c3-3bce-4b53-a539-92196aa60da4.png)
@@ -137,12 +141,15 @@ The finds of the dataset told us:
 In terms of leads reasons for no interest in different lead conversion stages (Important):
 
 Reasons to not be interested in the demo.
+
 ![image](https://user-images.githubusercontent.com/6307592/195080264-2d41e54e-4db8-418a-93dc-728453c4a1cf.png)
 
 Reasons to not consider.
+
 ![image](https://user-images.githubusercontent.com/6307592/195080474-864d7707-9c74-429b-bddc-86c77f409e02.png)
 
 Reasons to not convert.
+
 ![image](https://user-images.githubusercontent.com/6307592/195080694-7ab346a0-fb3c-448a-b4bb-ce6ae5807e4c.png)
 
 There could be a chance Can't afford ranks high in all the charts could be due to their parents occupation, 
@@ -153,6 +160,7 @@ to lets join the 2 datasets to observe closely
 ![image](https://user-images.githubusercontent.com/6307592/195080947-b2472450-920e-4e0a-9f67-abc4bbd0257b.png)
 
 The findings of the dataset told us: 
+
 1.The top 3 reasons across the import stages are Can't afford, Wants offline classes and Students not interested in domain (in that order).
 
 2.The top 3 parent occupation which result in reason 'Can't afford' are mainly Government Employee, Business and IT Employee (in that order)
@@ -162,9 +170,11 @@ ANALYSING DATASETS (MANAGER PERFORMANCE/LEAD CONVERT RATE) - refer flowchart abo
 In terms of manager sales details:
 
 How many junior managers had leads and who were they reporting to.
+
 ![image](https://user-images.githubusercontent.com/6307592/195081386-69cef0da-3f77-4d8f-8d38-c2ce5d214f1d.png)
 
 How many junior managers were successful in converting leads.
+
 ![image](https://user-images.githubusercontent.com/6307592/195081555-33631c75-585e-41d7-b01e-b819a5e1a05b.png)
 
 The findins of the dataset told us:
@@ -190,4 +200,5 @@ On the business side of things:
 On the operations/sales side of things:
 
 1.Combine the best junior managers who had the highest converted % under the top senior managers.
+
 2.Rotate junior managers not meeting certain % goal
