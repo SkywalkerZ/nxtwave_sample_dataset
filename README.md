@@ -38,21 +38,28 @@ lead_basic_details: Contains details of the leads.
 
 
 sales_managers_assigned_leads_details: Contains the details of the senior and junior sales managers and their assigned leads.
+
 Each senior sales manager is assigned to 4 junior sales managers.
+
 Each junior sales manager is assigned few leads in each cycle (a cycle is approximately a week).
+
+
 ![image](https://user-images.githubusercontent.com/6307592/195074159-e297be78-10ca-451f-aa95-10c07300c24c.png)
 
 
 leads_interaction_details: Contains the details of call interactions of junior sales managers with the leads.
 A lead can drop out at any stage of the flow. If there is no call by the junior sales manager to the lead after a certain stage then the lead is considered as dropped at that stage.
+
 ![image](https://user-images.githubusercontent.com/6307592/195074063-de85d9ad-440d-42b8-896c-088c45758f68.png)
 
 
 leads_demo_watched_details: Contains the details of the demo session watched by the leads.
+
 ![image](https://user-images.githubusercontent.com/6307592/195073887-a063ebe0-ebe0-4754-9c9d-3a652c2c597c.png)
 
 
 leads_reasons_for_no_interest: Contains the details of the reasons given by the leads for their lack of interest.
+
 ![image](https://user-images.githubusercontent.com/6307592/195074126-0d39b840-3c99-4c7b-aec5-457fffd1deab.png)
 
 
@@ -74,15 +81,19 @@ ANALYZING DATASETS (BUSINESS/SALES)
 In terms of leads details: 
 
 We had to understand how many female and male leads were interested. 
+
 ![image](https://user-images.githubusercontent.com/6307592/195077409-dab07c84-f229-4b85-a486-44349e8fd8ac.png)
 
 Then we had to understand which channel was bringing in the most leads.
+
 ![image](https://user-images.githubusercontent.com/6307592/195077587-b976506c-c89a-434d-b0c2-b50dcd11098f.png)
 
 We also needed to understand their locations.
+
 ![image](https://user-images.githubusercontent.com/6307592/195077721-bf3a6b8d-9f65-4864-b27f-0f7ffa369820.png)
 
 The findings of the dataset told us:
+
 1.Hyderabad , Visakhapatnam and Kochi have higher number of students interested.
 
 2.Leads from 'BTech' and 'Looking for job' are more likly to be interested.
