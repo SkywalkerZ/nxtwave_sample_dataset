@@ -23,6 +23,10 @@ Build the best suitable dashboard presenting your insights.
 
 Your recommendations must be backed by data insights and professional visualizations to help your business team design road maps, strategies, and action items to achieve their goals.
 
+Sales Business Dashboard: https://public.tableau.com/views/AssignmentBusinessDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Manager Performance Dashboard: https://public.tableau.com/views/AssignmentPerformanceDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Flowchart of leads conversion /internal hierarchy:
 ![image](https://user-images.githubusercontent.com/6307592/195079362-40296e30-a56b-4777-a004-fd8f81a4b824.png)
 
@@ -76,7 +80,7 @@ Once these records were removed, their primary keys ( forriegn keys ) were also 
 There were also typos in datasets that i changed in excel/sheets directly.
 
 
-ANALYZING DATASETS (BUSINESS/SALES)
+ANALYZING DATASETS (BUSINESS/SALES) - refer flowchart above
 
 In terms of leads details: 
 
