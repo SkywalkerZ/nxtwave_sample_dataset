@@ -11,11 +11,16 @@ Therefore, you have been asked to analyze various aspects of customer acquisitio
 
 Expected Outcome
 Brainstorm and identify the right metrics and frame proper questions for analysis. Your analysis should help your
+
 a. Business team to understand the lead's journey and stages with scope for improvement
+
 b. Business heads to understand their team performance
+
 c. Managers to understand their target areas
+
 In case you identify any outliers in the data set, make a note of them and exclude them from your analysis.
 Build the best suitable dashboard presenting your insights.
+
 Your recommendations must be backed by data insights and professional visualizations to help your business team design road maps, strategies, and action items to achieve their goals.
 
 
@@ -23,11 +28,6 @@ DETAILED APPROACH
 
 UNDERSTANDING DATASETS:
 
-Basic details of leads
-Hierarchy structure of sales managers and their assigned leads
-Lead interaction details
-Demo watched details of leads
-Reason for not being interested
 
 lead_basic_details: Contains details of the leads.
 ![image](https://user-images.githubusercontent.com/6307592/195073810-0707332d-b591-4215-ac30-dcc986623a67.png)
