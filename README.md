@@ -185,3 +185,12 @@ How many junior managers were successful in converting leads.
 
 1. Combine the best junior managers who had the highest converted % under the top senior managers.
 2. Rotate junior managers not meeting certain % goal
+
+#### Tools/Libraries Used:
+1. Python (Programming Language)
+2. Pandas (Python Library to load and explore data)
+3. Numpy (Python Library for arthematic ops)
+4. PandaSQL (Python Library to execute SQL queries)
+5. Matplotlib (Python Library for data visualisation)
+6. Tableau Public (Data Dashboard platform with visuals)
+7. Excel/Sheets
