@@ -186,6 +186,8 @@ How many junior managers were successful in converting leads.
 1. Combine the best junior managers who had the highest converted % under the top senior managers.
 2. Rotate junior managers not meeting certain % goal
 
+
+# Miscellaneous
 #### Tools/Libraries Used:
 1. Python (Programming Language)
 2. Pandas (Python Library to load and explore data)
