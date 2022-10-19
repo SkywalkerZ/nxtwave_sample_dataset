@@ -1,7 +1,7 @@
 # Sample Dataset (part of assignment/recruitment) -TLDR
 
 
-Kaggle Dataset link: https://www.kaggle.com/datasets/nxtwaveda/data-analyst
+Dataset link: [Kaggle](https://www.kaggle.com/datasets/nxtwaveda/data-analyst)
 
 # Assignment
 Assume you are a Data Analyst in an EdTech company. Your company is focused on accelerating its growth by increasing the number of enrolled users.
@@ -20,9 +20,9 @@ Build the best suitable dashboard presenting your insights.
 
 Your recommendations must be backed by data insights and professional visualizations to help your business team design road maps, strategies, and action items to achieve their goals.
 
-Sales Business Dashboard: https://public.tableau.com/views/AssignmentBusinessDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Sales Business Dashboard: [Tableau](https://public.tableau.com/views/AssignmentBusinessDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-Manager Performance Dashboard: https://public.tableau.com/views/AssignmentPerformanceDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+Manager Performance Dashboard: [Tableau](https://public.tableau.com/views/AssignmentPerformanceDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 Flowchart of leads conversion /internal hierarchy:
 ![image](https://user-images.githubusercontent.com/6307592/195079362-40296e30-a56b-4777-a004-fd8f81a4b824.png)
@@ -183,6 +183,5 @@ How many junior managers were successful in converting leads.
 
 ### On the operations/sales side of things:
 
-1.Combine the best junior managers who had the highest converted % under the top senior managers.
-
-2.Rotate junior managers not meeting certain % goal
+1. Combine the best junior managers who had the highest converted % under the top senior managers.
+2. Rotate junior managers not meeting certain % goal
